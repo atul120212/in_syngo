@@ -48,7 +48,7 @@ class _CardsListState extends State<CardsList> {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Text('iN_SyNgo', style: TextStyle(color: Colors.blue, fontSize: 30, fontWeight:FontWeight.w900),),
-                Text('🪙251.8',style: TextStyle(fontWeight: FontWeight.w700),),
+                Text('🫡251.8',style: TextStyle(fontWeight: FontWeight.w700),),
                 
               ],
 

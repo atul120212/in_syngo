@@ -83,7 +83,7 @@ class _TransactionPageState extends State<TransactionPage> {
                           padding: const EdgeInsets.only(right:12.0),
                           child: SvgPicture.asset('assets/bankTransfer-icon.svg'),
                         ),
-                        Text('It’s our unshakeable belief that India will never achieve its true growth story until the rural sector of the country is empowered to make \n choices and transform their own lives. ',
+                        Text('India will never achieve its true growth \nstory until the rural sector of the country \nis empowered to make choices and \ntransform their own lives. ',
                         style: ThemeStyles.otherDetailsPrimary),
 
                         ],
@@ -104,7 +104,7 @@ class _TransactionPageState extends State<TransactionPage> {
                               borderRadius: BorderRadius.circular(10.0),
                               
                             ),
-                            child: Center(child: Text('#finance',style: ThemeStyles.tagText),
+                            child: Center(child: Text('#trust',style: ThemeStyles.tagText),
                             ),
                           ),
                         ),
@@ -118,7 +118,7 @@ class _TransactionPageState extends State<TransactionPage> {
                               borderRadius: BorderRadius.circular(10.0),
                               
                             ),
-                            child: Center(child: Text('#fintory',style: ThemeStyles.tagText),
+                            child: Center(child: Text('#respect',style: ThemeStyles.tagText),
                             ),
                           ),
                         ),
@@ -132,7 +132,7 @@ class _TransactionPageState extends State<TransactionPage> {
                               borderRadius: BorderRadius.circular(10.0),
                               
                             ),
-                            child: Center(child: Text('#design',style: ThemeStyles.tagText),
+                            child: Center(child: Text('#be_kind',style: ThemeStyles.tagText),
                             ),
                           ),
                         ),
@@ -146,10 +146,10 @@ class _TransactionPageState extends State<TransactionPage> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('IBAN',
+                        Text('Official Website',
                         style: ThemeStyles.otherDetailsPrimary),
                         SizedBox(height: 5.0,),
-                        Text('DE56 3902 0000 1203 2339 39',
+                        Text('www.cry.org',
                     style: ThemeStyles.otherDetailsPrimary),
                       ],
                     ),
@@ -160,10 +160,10 @@ class _TransactionPageState extends State<TransactionPage> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('Posting Key',
+                        Text('Area of Work',
                         style: ThemeStyles.otherDetailsPrimary),
                         SizedBox(height: 5.0,),
-                        Text('153',
+                        Text('  > Healthcare \n  > Nutrition \n  > Education \n  > Protection from child labour \n  > Protection from child marriage',
                     style: ThemeStyles.otherDetailsPrimary),
                       ],
                     ),
@@ -174,10 +174,10 @@ class _TransactionPageState extends State<TransactionPage> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('BIC',
+                        Text('Founder',
                         style: ThemeStyles.otherDetailsPrimary),
                         SizedBox(height: 5.0,),
-                        Text('DUISDE33XX',
+                        Text('Rippan Kapur',
                     style: ThemeStyles.otherDetailsPrimary),
                       ],
                     ),
@@ -188,10 +188,10 @@ class _TransactionPageState extends State<TransactionPage> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('Posting Text',
+                        Text('Types of Registration',
                         style: ThemeStyles.otherDetailsPrimary),
                         SizedBox(height: 5.0,),
-                        Text('Landing Page',
+                        Text('Non-Governmental Organisation',
                     style: ThemeStyles.otherDetailsPrimary),
                       ],
                     ),
@@ -202,10 +202,10 @@ class _TransactionPageState extends State<TransactionPage> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('Purpose Code',
+                        Text('Contact Details',
                         style: ThemeStyles.otherDetailsPrimary),
                         SizedBox(height: 5.0,),
-                        Text('0LOA',
+                        Text('cryinfo.mum@crymail.org',
                     style: ThemeStyles.otherDetailsPrimary),
                       ],
                     ),
@@ -217,10 +217,10 @@ class _TransactionPageState extends State<TransactionPage> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('SEPA Reference',
+                        Text('Address',
                         style: ThemeStyles.otherDetailsPrimary),
                         SizedBox(height: 5.0,),
-                        Text('DE56 3902 0000 1203 2339 39',
+                        Text('Sane Guruji Marg, Mumbai – 400 011',
                     style: ThemeStyles.otherDetailsPrimary),
                       ],
                     ),

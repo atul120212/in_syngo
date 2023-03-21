@@ -19,6 +19,7 @@ class _AddNoteState extends State<AddNote> {
         width: 345.0,
         child: Center(
           child: Text(
+            
             'DONATE',
             style: TextStyle(
                 fontSize: 16.0,
