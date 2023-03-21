@@ -1,4 +1,3 @@
-//import 'dart:ffi';
 import 'package:in_syngo/Signup_Screen.dart';
 //import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
